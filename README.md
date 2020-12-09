@@ -1,4 +1,4 @@
-# commands-install-VSCODE-for-Raspberry-PI
+# commands for install VSCODE on Raspberry-PI
 
 `wget https://packagecloud.io/headmelted/codebuilds/gpgkey -O - | sudo apt-key add -`
 
